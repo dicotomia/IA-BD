@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "fecha": "2026-09-01",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 1,
+    "precio": 189.9
+  },
+  {
+    "id": 2,
+    "fecha": "2026-09-02",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 2,
+    "precio": 88.06
+  },
+  {
+    "id": 3,
+    "fecha": "2026-09-03",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 3,
+    "precio": 95.29
+  },
+  {
+    "id": 4,
+    "fecha": "2026-09-04",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 4,
+    "precio": 130.69
+  },
+  {
+    "id": 5,
+    "fecha": "2026-09-05",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 5,
+    "precio": 189.9
+  },
+  {
+    "id": 6,
+    "fecha": "2026-09-06",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 1,
+    "precio": 88.06
+  },
+  {
+    "id": 7,
+    "fecha": "2026-09-07",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 2,
+    "precio": 95.29
+  },
+  {
+    "id": 8,
+    "fecha": "2026-09-08",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 3,
+    "precio": 130.69
+  },
+  {
+    "id": 9,
+    "fecha": "2026-09-09",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 4,
+    "precio": 189.9
+  },
+  {
+    "id": 10,
+    "fecha": "2026-09-10",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 5,
+    "precio": 88.06
+  },
+  {
+    "id": 11,
+    "fecha": "2026-09-11",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 1,
+    "precio": 95.29
+  },
+  {
+    "id": 12,
+    "fecha": "2026-09-12",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 2,
+    "precio": 130.69
+  },
+  {
+    "id": 13,
+    "fecha": "2026-09-13",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 3,
+    "precio": 189.9
+  },
+  {
+    "id": 14,
+    "fecha": "2026-09-14",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 4,
+    "precio": 88.06
+  },
+  {
+    "id": 15,
+    "fecha": "2026-09-15",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 5,
+    "precio": 95.29
+  },
+  {
+    "id": 16,
+    "fecha": "2026-09-16",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 1,
+    "precio": 130.69
+  },
+  {
+    "id": 17,
+    "fecha": "2026-09-17",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 2,
+    "precio": 189.9
+  },
+  {
+    "id": 18,
+    "fecha": "2026-09-18",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 3,
+    "precio": 88.06
+  },
+  {
+    "id": 19,
+    "fecha": "2026-09-19",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 4,
+    "precio": 95.29
+  },
+  {
+    "id": 20,
+    "fecha": "2026-09-20",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 5,
+    "precio": 130.69
+  },
+  {
+    "id": 21,
+    "fecha": "2026-09-21",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 1,
+    "precio": 189.9
+  },
+  {
+    "id": 22,
+    "fecha": "2026-09-22",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 2,
+    "precio": 88.06
+  },
+  {
+    "id": 23,
+    "fecha": "2026-09-23",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 3,
+    "precio": 95.29
+  },
+  {
+    "id": 24,
+    "fecha": "2026-09-24",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 4,
+    "precio": 130.69
+  },
+  {
+    "id": 25,
+    "fecha": "2026-09-25",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 5,
+    "precio": 189.9
+  },
+  {
+    "id": 26,
+    "fecha": "2026-09-26",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 1,
+    "precio": 88.06
+  },
+  {
+    "id": 27,
+    "fecha": "2026-09-27",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 2,
+    "precio": 95.29
+  },
+  {
+    "id": 28,
+    "fecha": "2026-09-28",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 3,
+    "precio": 130.69
+  },
+  {
+    "id": 29,
+    "fecha": "2026-09-29",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 4,
+    "precio": 189.9
+  },
+  {
+    "id": 30,
+    "fecha": "2026-09-30",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 5,
+    "precio": 88.06
+  },
+  {
+    "id": 31,
+    "fecha": "2026-09-01",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 1,
+    "precio": 95.29
+  },
+  {
+    "id": 32,
+    "fecha": "2026-09-02",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 2,
+    "precio": 130.69
+  },
+  {
+    "id": 33,
+    "fecha": "2026-09-03",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 3,
+    "precio": 189.9
+  },
+  {
+    "id": 34,
+    "fecha": "2026-09-04",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 4,
+    "precio": 88.06
+  },
+  {
+    "id": 35,
+    "fecha": "2026-09-05",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 5,
+    "precio": 95.29
+  },
+  {
+    "id": 36,
+    "fecha": "2026-09-06",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 1,
+    "precio": 130.69
+  },
+  {
+    "id": 37,
+    "fecha": "2026-09-07",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 2,
+    "precio": 189.9
+  },
+  {
+    "id": 38,
+    "fecha": "2026-09-08",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 3,
+    "precio": 88.06
+  },
+  {
+    "id": 39,
+    "fecha": "2026-09-09",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 4,
+    "precio": 95.29
+  },
+  {
+    "id": 40,
+    "fecha": "2026-09-10",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 5,
+    "precio": 130.69
+  },
+  {
+    "id": 41,
+    "fecha": "2026-09-11",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 1,
+    "precio": 189.9
+  },
+  {
+    "id": 42,
+    "fecha": "2026-09-12",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 2,
+    "precio": 88.06
+  },
+  {
+    "id": 43,
+    "fecha": "2026-09-13",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 3,
+    "precio": 95.29
+  },
+  {
+    "id": 44,
+    "fecha": "2026-09-14",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 4,
+    "precio": 130.69
+  },
+  {
+    "id": 45,
+    "fecha": "2026-09-15",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 5,
+    "precio": 189.9
+  },
+  {
+    "id": 46,
+    "fecha": "2026-09-16",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 1,
+    "precio": 88.06
+  },
+  {
+    "id": 47,
+    "fecha": "2026-09-17",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 2,
+    "precio": 95.29
+  },
+  {
+    "id": 48,
+    "fecha": "2026-09-18",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 3,
+    "precio": 130.69
+  },
+  {
+    "id": 49,
+    "fecha": "2026-09-19",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 4,
+    "precio": 189.9
+  },
+  {
+    "id": 50,
+    "fecha": "2026-09-20",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 5,
+    "precio": 88.06
+  },
+  {
+    "id": 51,
+    "fecha": "2026-09-21",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 1,
+    "precio": 95.29
+  },
+  {
+    "id": 52,
+    "fecha": "2026-09-22",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 2,
+    "precio": 130.69
+  },
+  {
+    "id": 53,
+    "fecha": "2026-09-23",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 3,
+    "precio": 189.9
+  },
+  {
+    "id": 54,
+    "fecha": "2026-09-24",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 4,
+    "precio": 88.06
+  },
+  {
+    "id": 55,
+    "fecha": "2026-09-25",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 5,
+    "precio": 95.29
+  },
+  {
+    "id": 56,
+    "fecha": "2026-09-26",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 1,
+    "precio": 130.69
+  },
+  {
+    "id": 57,
+    "fecha": "2026-09-27",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 2,
+    "precio": 189.9
+  },
+  {
+    "id": 58,
+    "fecha": "2026-09-28",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 3,
+    "precio": 88.06
+  },
+  {
+    "id": 59,
+    "fecha": "2026-09-29",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 4,
+    "precio": 95.29
+  },
+  {
+    "id": 60,
+    "fecha": "2026-09-30",
+    "provincia": "Jaen",
+    "categoria": "Servidores",
+    "producto": "RAM32GB",
+    "cantidad": 5,
+    "precio": 130.69
+  },
+  {
+    "id": 61,
+    "fecha": "2026-09-01",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 1,
+    "precio": 189.9
+  },
+  {
+    "id": 62,
+    "fecha": "2026-09-02",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 2,
+    "precio": 88.06
+  },
+  {
+    "id": 63,
+    "fecha": "2026-09-03",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 3,
+    "precio": 95.29
+  },
+  {
+    "id": 64,
+    "fecha": "2026-09-04",
+    "provincia": "Granada",
+    "categoria": "Servidores",
+    "producto": "SAI",
+    "cantidad": 4,
+    "precio": 216.91
+  },
+  {
+    "id": 65,
+    "fecha": "2026-09-05",
+    "provincia": "Malaga",
+    "categoria": "Informatica",
+    "producto": "Teclado",
+    "cantidad": 5,
+    "precio": 29.95
+  },
+  {
+    "id": 66,
+    "fecha": "2026-09-06",
+    "provincia": "Sevilla",
+    "categoria": "Redes",
+    "producto": "Router",
+    "cantidad": 1,
+    "precio": 133.8
+  },
+  {
+    "id": 67,
+    "fecha": "2026-09-07",
+    "provincia": "Granada",
+    "categoria": "Almacenamiento",
+    "producto": "Pendrive64GB",
+    "cantidad": 2,
+    "precio": 15.85
+  },
+  {
+    "id": 68,
+    "fecha": "2026-09-08",
+    "provincia": "Malaga",
+    "categoria": "Servidores",
+    "producto": "Rack",
+    "cantidad": 3,
+    "precio": 380.41
+  },
+  {
+    "id": 69,
+    "fecha": "2026-09-09",
+    "provincia": "Sevilla",
+    "categoria": "Informatica",
+    "producto": "Raton",
+    "cantidad": 4,
+    "precio": 24.5
+  },
+  {
+    "id": 70,
+    "fecha": "2026-09-10",
+    "provincia": "Granada",
+    "categoria": "Redes",
+    "producto": "CableCat6",
+    "cantidad": 5,
+    "precio": 12.88
+  },
+  {
+    "id": 71,
+    "fecha": "2026-09-11",
+    "provincia": "Malaga",
+    "categoria": "Almacenamiento",
+    "producto": "NAS2Bahias",
+    "cantidad": 1,
+    "precio": 263.94
+  },
+  {
+    "id": 72,
+    "fecha": "2026-09-12",
+    "provincia": "Sevilla",
+    "categoria": "Servidores",
+    "producto": "MicroServidor",
+    "cantidad": 2,
+    "precio": 652.91
+  },
+  {
+    "id": 73,
+    "fecha": "2026-09-13",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 3,
+    "precio": 189.9
+  },
+  {
+    "id": 74,
+    "fecha": "2026-09-14",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Switch",
+    "cantidad": 4,
+    "precio": 88.06
+  },
+  {
+    "id": 75,
+    "fecha": "2026-09-15",
+    "provincia": "Sevilla",
+    "categoria": "Almacenamiento",
+    "producto": "SSD1TB",
+    "cantidad": 5,
+    "precio": 95.29
+  },
+  {
+    "id": 76,
+    "fecha": "2026-09-16",
+    "provincia": "Granada",
+    "categoria": "Servidores",
+    "producto": "SAI",
+    "cantidad": 1,
+    "precio": 216.91
+  },
+  {
+    "id": 77,
+    "fecha": "2026-09-17",
+    "provincia": "Malaga",
+    "categoria": "Informatica",
+    "producto": "Teclado",
+    "cantidad": 2,
+    "precio": 29.95
+  },
+  {
+    "id": 78,
+    "fecha": "2026-09-18",
+    "provincia": "Sevilla",
+    "categoria": "Redes",
+    "producto": "Router",
+    "cantidad": 3,
+    "precio": 133.8
+  },
+  {
+    "id": 79,
+    "fecha": "2026-09-19",
+    "provincia": "Granada",
+    "categoria": "Almacenamiento",
+    "producto": "Pendrive64GB",
+    "cantidad": 4,
+    "precio": 15.85
+  },
+  {
+    "id": 80,
+    "fecha": "2026-09-20",
+    "provincia": "Malaga",
+    "categoria": "Servidores",
+    "producto": "Rack",
+    "cantidad": 5,
+    "precio": 380.41
+  },
+  {
+    "id": 81,
+    "fecha": "2026-09-21",
+    "provincia": "Sevilla",
+    "categoria": "Informatica",
+    "producto": "Raton",
+    "cantidad": 1,
+    "precio": 24.5
+  },
+  {
+    "id": 82,
+    "fecha": "2026-09-22",
+    "provincia": "Granada",
+    "categoria": "Redes",
+    "producto": "CableCat6",
+    "cantidad": 2,
+    "precio": 12.88
+  },
+  {
+    "id": 83,
+    "fecha": "2026-09-23",
+    "provincia": "Malaga",
+    "categoria": "Almacenamiento",
+    "producto": "NAS2Bahias",
+    "cantidad": 3,
+    "precio": 263.94
+  },
+  {
+    "id": 84,
+    "fecha": "2026-09-24",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Teclado",
+    "cantidad": 4,
+    "precio": 32.65
+  },
+  {
+    "id": 85,
+    "fecha": "2026-09-25",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "Router",
+    "cantidad": 5,
+    "precio": 129.9
+  },
+  {
+    "id": 86,
+    "fecha": "2026-09-26",
+    "provincia": "Granada",
+    "categoria": "Almacenamiento",
+    "producto": "NAS2Bahias",
+    "cantidad": 1,
+    "precio": 256.47
+  },
+  {
+    "id": 87,
+    "fecha": "2026-09-27",
+    "provincia": "Malaga",
+    "categoria": "Informatica",
+    "producto": "Portatil",
+    "cantidad": 2,
+    "precio": 793.94
+  },
+  {
+    "id": 88,
+    "fecha": "2026-09-28",
+    "provincia": "Granada",
+    "categoria": "Redes",
+    "producto": "Router",
+    "cantidad": 3,
+    "precio": 141.59
+  },
+  {
+    "id": 89,
+    "fecha": "2026-09-29",
+    "provincia": "Malaga",
+    "categoria": "Almacenamiento",
+    "producto": "HDD4TB",
+    "cantidad": 4,
+    "precio": 119.0
+  },
+  {
+    "id": 90,
+    "fecha": "2026-09-30",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Portatil",
+    "cantidad": 5,
+    "precio": 771.47
+  },
+  {
+    "id": 91,
+    "fecha": "2026-09-01",
+    "provincia": "Malaga",
+    "categoria": "Redes",
+    "producto": "CableCat6",
+    "cantidad": 1,
+    "precio": 13.25
+  },
+  {
+    "id": 92,
+    "fecha": "2026-09-02",
+    "provincia": "Granada",
+    "categoria": "Almacenamiento",
+    "producto": "HDD4TB",
+    "cantidad": 2,
+    "precio": 129.71
+  },
+  {
+    "id": 93,
+    "fecha": "2026-09-03",
+    "provincia": "Malaga",
+    "categoria": "Informatica",
+    "producto": "Teclado",
+    "cantidad": 3,
+    "precio": 29.95
+  },
+  {
+    "id": 94,
+    "fecha": "2026-09-04",
+    "provincia": "Granada",
+    "categoria": "Redes",
+    "producto": "CableCat6",
+    "cantidad": 4,
+    "precio": 12.88
+  },
+  {
+    "id": 95,
+    "fecha": "2026-09-05",
+    "provincia": "Granada",
+    "categoria": "Almacenamiento",
+    "producto": "Pendrive64GB",
+    "cantidad": 5,
+    "precio": 15.85
+  },
+  {
+    "id": 96,
+    "fecha": "2026-09-06",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Teclado",
+    "cantidad": 1,
+    "precio": 32.65
+  },
+  {
+    "id": 97,
+    "fecha": "2026-09-07",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Monitor",
+    "cantidad": 2,
+    "precio": 189.9
+  },
+  {
+    "id": 98,
+    "fecha": "2026-09-08",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Portatil",
+    "cantidad": 3,
+    "precio": 771.47
+  },
+  {
+    "id": 99,
+    "fecha": "2026-09-09",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Raton",
+    "cantidad": 4,
+    "precio": 25.97
+  },
+  {
+    "id": 100,
+    "fecha": "2026-09-10",
+    "provincia": "Granada",
+    "categoria": "Informatica",
+    "producto": "Teclado",
+    "cantidad": 5,
+    "precio": 32.65
+  }
+]
